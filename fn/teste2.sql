@@ -1,1 +1,1 @@
-select 2+4 as resultado;
+select 3+4 as resultado;

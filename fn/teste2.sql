@@ -1,1 +1,1 @@
-select 5+4 as resultado;
+select 5+5 as resultado;
